@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Kimmo's notes on code</ShortName>
+    <Url type="text/html" template="https://www.kimmoihanus.com?search={searchTerms}"/>
+    <Description>Notes on code by Kimmo Ihanus.</Description>
+    <Tags>development</Tags>
+    <Contact>https://twitter.com/ihmissuti</Contact>
+</OpenSearchDescription>
