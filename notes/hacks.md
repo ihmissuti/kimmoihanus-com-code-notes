@@ -2,7 +2,7 @@
 title: Hacks and side projects
 tags:
   - hacks
-emoji: 👋
+emoji: 🐱‍💻
 # link: https://me
 ---
 

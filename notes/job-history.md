@@ -3,7 +3,7 @@ title: My job history
 tags:
   - work
   - jobs
-emoji: 💻
+emoji: 🖥️
 ---
 
 ### My job history
