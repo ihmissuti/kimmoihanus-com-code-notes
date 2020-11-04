@@ -1,5 +1,5 @@
 ---
-title: My work and projects
+title: My projects
 tags:
   - work
   - projects
@@ -22,4 +22,4 @@ A project that started as a joke. [ConsoleChat.io](https://consolechat.io) turns
 
 [abtestcalculation.com](https://consolechat.io) calculates the results of A/B or multivariate tests, and estimates the required duration to achieve statistical significance. 
 
-*Built with Vuew.JS*
+*Built with Vue.JS*

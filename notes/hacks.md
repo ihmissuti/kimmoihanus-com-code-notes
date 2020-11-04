@@ -9,12 +9,12 @@ emoji: 👋
 ### T-shirt sentiment analysis recommendation engine
 Prototype of an online UI that recommends T-shirts based on sentiment analysis for T-shirt reviews.
 
-*Built with Brain.js*
+*Built with [Brain.js](https://brain.js.org)*
 
 [Source](https://github.com/ihmissuti/sentiment-recommendation-engige)
 [Demo](https://gentle-brushlands-23813.herokuapp.com/)
 
-### Finnish semntiment analyser
+### Finnish sentiment analyzer
 Finnish language sentiment analyzer based on Sentiment node.js module and AFINN-165 wordlist.
 
 [Source](https://github.com/ihmissuti/fi-sentiment-analysis)
